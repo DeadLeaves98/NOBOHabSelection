@@ -5,6 +5,8 @@
 #### Last Editted: 9.25.2023 
 ##################################################################
 
+# Bobwhites are super cool!
+
 library(rgdal); library(raster); library(adehabitatHR); library(rgeos); library(sf); library(dplyr)
 library(lubridate); library(stringr); library(hablar); library(AICcmodavg);  library(lme4)
 
